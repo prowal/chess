@@ -1,4 +1,7 @@
 <link rel="stylesheet" href="lib/style2.css">
+<script src="lib/pgnvjs.js"></script>
+
+<script src="lib/script.js"></script>
 
 ## Welcome to GitHub Pages
 
@@ -33,6 +36,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### PGN test
 [pgn][/pgn]
 
+<div id="board"></div>
+
 <div id="home">ugh</div>
 
 
@@ -44,4 +49,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-<script src="lib/script.js"></script>
+
