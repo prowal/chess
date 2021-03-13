@@ -1,8 +1,6 @@
 <link rel="stylesheet" href="lib/style2.css">
 <script src="lib/pgnv/pgnv.js"></script>
 
-<script src="lib/script.js"></script>
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/prowal/chess/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -50,4 +48,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
-<script></script>
+<script>
+  const $ = document.querySelector.bind(document);
+  console.log("wesh");
+  const a = $("#home");
+  a.innerHTML = "pouet";
+
+  PGNV.pgnView('board',{ pgn: '1. e4 e5 2. Nf3 Nc6 3. Bb5', pieceStyle: 'merida' });
+</script>
