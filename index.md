@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="lib/style.css">
+<link rel="stylesheet" href="lib/style2.css">
 
 ## Welcome to GitHub Pages
 
