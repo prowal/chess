@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="lib/style.css">
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/prowal/chess/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -31,7 +33,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### PGN test
 [pgn][/pgn]
 
-<div>test</div>
+<div class="home">test</div>
 
 
 ### Jekyll Themes
