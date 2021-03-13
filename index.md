@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="lib/style2.css">
-<script src="lib/pgnvjs.js"></script>
+<script src="lib/pgnv/pgnv.js"></script>
 
 <script src="lib/script.js"></script>
 
