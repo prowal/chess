@@ -31,15 +31,17 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### PGN test
-[pgn][/pgn]
-
+## Variantes faibles pour les noirs
+- 3. ... d6. Dans ce cas, prendre e5, tout échanger et déroquer le roi Noir en échangeant les Dames. Puis Fc4 pour attaquer f7. Pour la suite:
+    - Sur Fe6, échanger les Fous pour doubler les pions, puis amener le Cavalier vers la case c4.
+    - Sur f6, développer Fe3, Cc3, faire grand roque, et les Blancs sont bien.
+- 3. ... f6 (coup rare et mauvais pour les Noirs), attaquer f7 en commançant par Fc4.
 <div id="board"></div>
 
 <div id="home">ugh</div>
 
 
-### Jekyll Themes
+## Variante principale
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prowal/chess/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
