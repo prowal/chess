@@ -36,7 +36,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
     - Sur Fe6, échanger les Fous pour doubler les pions, puis amener le Cavalier vers la case c4.
     - Sur f6, développer Fe3, Cc3, faire grand roque, et on a un avantage de développement. on voudrait ouvrir au centre en faisant f4 il faut donc mettre le cavalier en h4 puis g3 f4
 - 3 ... f6 (coup rare et mauvais pour les Noirs), attaquer f7 en commançant par Fc4.
-<div id="board"></div>
+<div id="board" style="width: 400px"></div>
 
 <div id="home">ugh</div>
 
@@ -52,9 +52,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <script>
   const $ = document.querySelector.bind(document);
-  console.log("wesh");
-  const a = $("#home");
-  a.innerHTML = "pouet";
 
   PGNV.pgnView('board',{ pgn: '1. e4 e5 2. Nf3 Nc6 3. d4 d6 (3... f6 4. Bc4) 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bc4 f6 (6... Be6 7. Bxe6 fxe6 8. Be3) 7. Be3 Bd6 8. Nc3 a6 9. O-O-O *', pieceStyle: 'merida', locale:'fr', layout:'left' });
 </script>
