@@ -1,36 +1,7 @@
 <link rel="stylesheet" href="lib/style2.css">
 <script src="lib/pgnv/pgnv.js"></script>
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/prowal/chess/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+# Ouverture écossaise
 ## Variantes faibles pour les noirs
 - 3 ... d6. Dans ce cas, prendre e5 et déroquer le roi Noir en échangeant les Dames (peut pas reprendre du cavalier car e5 reste en prise). Puis Fc4 pour attaquer f7. Pour la suite:
     - Sur Fe6, échanger les Fous pour doubler les pions, puis amener le Cavalier vers la case c4.
