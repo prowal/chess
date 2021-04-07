@@ -26,3 +26,10 @@ $medium-breakpoint: 100em !default;
     border-color: rgba(0,0,0,0.5);
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 }
+
+.moves .move a:hover {
+    /* border: 1px yellow dotted; */
+    background-color: rgba(255,255,255,1);
+    color: #159957;
+    cursor: pointer;
+}
