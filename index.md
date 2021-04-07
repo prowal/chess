@@ -32,7 +32,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Variantes faibles pour les noirs
-- 3 ... d6. Dans ce cas, prendre e5 et déroquer le roi Noir en échangeant les Dames (peut pas reprenre du cavalier car sinon e5 reste en prise). Puis Fc4 pour attaquer f7. Pour la suite:
+- 3 ... d6. Dans ce cas, prendre e5 et déroquer le roi Noir en échangeant les Dames (peut pas reprendre du cavalier car e5 reste en prise). Puis Fc4 pour attaquer f7. Pour la suite:
     - Sur Fe6, échanger les Fous pour doubler les pions, puis amener le Cavalier vers la case c4.
     - Sur f6, développer Fe3, Cc3, faire grand roque, et on a un avantage de développement. on voudrait ouvrir au centre en faisant f4 il faut donc mettre le cavalier en h4 puis g3 f4
 - 3 ... f6 (coup rare et mauvais pour les Noirs), attaquer f7 en commançant par Fc4.
