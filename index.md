@@ -53,5 +53,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <script>
   const $ = document.querySelector.bind(document);
 
-  PGNV.pgnView('board',{ pgn: '1. e4 e5 2. Nf3 Nc6 3. d4 d6 (3... f6 4. Bc4) 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bc4 f6 (6... Be6 7. Bxe6 fxe6 8. Be3) 7. Be3 Bd6 8. Nc3 a6 9. O-O-O *', pieceStyle: 'merida', locale:'fr', layout:'left', width: '600px', boardSize: '300px'});
+  PGNV.pgnView('board',{ pgn: '1. e4 e5 2. Nf3 Nc6 3. d4 d6 (3... f6 4. Bc4) 4. dxe5 dxe5 5. Qxd8+ Kxd8 6. Bc4 f6 (6... Be6 7. Bxe6 fxe6 8. Be3) 7. Be3 Bd6 8. Nc3 a6 9. O-O-O *', pieceStyle: 'merida', locale:'fr', layout:'left', width: '80em', boardSize: '300px'});
 </script>
