@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="lib/style2.css">
 <script src="lib/pgnv/pgnv.js"></script>
 
-<a href="www.google.fr" class="btn">Ecossaise</a>
+<a href="www.google.fr" class="btn btn2">Ecossaise</a>
 
 # Ouverture écossaise
 ## Variantes faibles pour les noirs
