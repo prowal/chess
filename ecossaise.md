@@ -1,5 +1,7 @@
+---
 layout: page
-title: "Ecossaise"
+title: Ecossaise
+---
 
 <link rel="stylesheet" href="lib/style2.css">
 <script src="lib/pgnv/pgnv.js"></script>
