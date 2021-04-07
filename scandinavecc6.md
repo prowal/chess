@@ -1,7 +1,10 @@
+---
+---
+
 <link rel="stylesheet" href="lib/style2.css">
 <script src="lib/pgnv/pgnv.js"></script>
 
-# Ouverture écossaise
+# Ouverture scandinave Cc6
 ## Variantes faibles pour les noirs
 - 3 ... d6. Dans ce cas, prendre e5 et déroquer le roi Noir en échangeant les Dames (peut pas reprendre du cavalier car e5 reste en prise). Puis Fc4 pour attaquer f7. Pour la suite:
     - Sur Fe6, échanger les Fous pour doubler les pions, puis amener le Cavalier vers la case c4.
