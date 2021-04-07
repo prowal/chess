@@ -8,7 +8,6 @@ $medium-breakpoint: 100em !default;
 
 @import "{{ site.theme }}";
 
-@media screen and (min-width: 100em)
 .main-content {
     max-width: 100rem;
 }
