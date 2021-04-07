@@ -1,8 +1,6 @@
 <link rel="stylesheet" href="lib/style2.css">
 <script src="lib/pgnv/pgnv.js"></script>
 
-<a href="www.google.fr" class="btn btn2">Ecossaise</a>
-
 # Ouverture écossaise
 ## Variantes faibles pour les noirs
 - 3 ... d6. Dans ce cas, prendre e5 et déroquer le roi Noir en échangeant les Dames (peut pas reprendre du cavalier car e5 reste en prise). Puis Fc4 pour attaquer f7. Pour la suite:
