@@ -1,5 +1,4 @@
 ---
-title: Ecossaise
 ---
 
 <link rel="stylesheet" href="lib/style2.css">
